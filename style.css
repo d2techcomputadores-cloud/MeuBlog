@@ -1,0 +1,40 @@
+table{
+    width: 100%;
+}
+
+
+#navegacao{
+    text-align: right;
+    color: black;
+    background-color: bisque;
+}
+
+#titulo{
+    font-size: 80px;
+    background-color: green;
+    color: black;
+}
+
+#logo{
+    background-color: bisque;
+}
+
+
+nav{
+    border-color: blue;
+    border-bottom-style: solid;
+    border-radius: 2%;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+
+a {
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+
+img{
+    width: 140px;
+    height: 100px;
+}
