@@ -11,27 +11,28 @@ table{
 
 #titulo{
     font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: green;
     color: black;
 }
 
 #logo{
-    background-color: bisque;
+    background-color: darkgray;
+
 }
 
 
 nav{
     border-color: blue;
-    border-bottom-style: solid;
     border-radius: 2%;
     text-align: center;
-    padding-bottom: 10px;
 }
 
 
 a {
     margin-right: 5rem;
     margin-left: 5rem;
+    font-size:  larger;
 }
 
 img{
