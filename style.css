@@ -4,20 +4,22 @@ table{
 
 
 #navegacao{
-    text-align: right;
     color: black;
-    background-color: bisque;
+    background-color: beige;
+    align-content: center;
 }
 
 #titulo{
     font-size: 80px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: green;
+    font-family: fantasy;
+    background-color: cornflowerblue;
     color: black;
 }
 
 #logo{
-    background-color: darkgray;
+    background-color: beige;
+    width: 10px;
+    height: 10px;
 
 }
 
@@ -38,4 +40,58 @@ a {
 img{
     width: 140px;
     height: 100px;
+}
+
+#descricao{
+    text-align: center;
+    font-size: 20px;
+    background-color:black;
+    color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#img-post{
+
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    background-color: cornflowerblue;
+}
+
+#info{
+    text-align: start;
+    background-color: white;
+    color: black;
+    align-content: start;
+    align-content: space-evenly;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}   
+
+#comentar{
+    width: 20px;
+    height: 20px;
+}
+
+#curtir{
+    width: 20px;
+    height: 20px;
+}
+
+#compartilhar{
+    width: 20px;
+    height: 20px;
+}
+
+td{
+    text-align: center;
+    align-content: space-between;
+    background-color: cornflowerblue;
+    text-align: left;
+    color: aliceblue;
+
+}
+
+#post{
+    background-color: black;
 }
